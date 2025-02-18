@@ -23,6 +23,7 @@ API Integration: GitHub user data is retrieved using the GitHub REST API, with i
 React Router Setup: Navigation is structured using React Router, with configurations in src/main.tsx.
 LocalStorage Usage: Candidate saving and retrieval logic is implemented in src/pages/CandidateSearch.tsx and src/pages/SavedCandidates.tsx.
 
+## Screenshots
 ![screenshot1](https://github.com/AjaxTheRoo/candidate-search/blob/main/assets/Capture1.JPG)
 ![screenshot2](https://github.com/AjaxTheRoo/candidate-search/blob/main/assets/Capture2.JPG)
 
