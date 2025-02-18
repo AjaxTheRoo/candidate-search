@@ -1,4 +1,4 @@
-# candidate-search
+# Candidate Search
 Web application to help find candidates on GitHub.
 -View GitHub user profiles, including name, username, location, email, and company.
 -Save profiles to a list of potential hires.
