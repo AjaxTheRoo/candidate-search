@@ -25,3 +25,9 @@ LocalStorage Usage: Candidate saving and retrieval logic is implemented in src/p
 
 ![screenshot1](https://github.com/AjaxTheRoo/candidate-search/blob/main/assets/Capture1.JPG)
 ![screenshot2](https://github.com/AjaxTheRoo/candidate-search/blob/main/assets/Capture2.JPG)
+
+## Usage
+To begin, enter `npm run dev` into the terminal.
+
+#Questions
+If you have any questions or comments, please feel free to contact me.
